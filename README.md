@@ -2,7 +2,7 @@
 
 Competition URL - [AnalyticsVidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/)
 
-Loan prediction using Logistic regression machine learing algorithm to predict loan status.
+Loan prediction using Logistic regression Machine Learing algorithm to predict loan status.
 @ aks.singh26@gmail.com  asingh07@syr.edu
 
 # Data
